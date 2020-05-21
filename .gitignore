@@ -1,5 +1,8 @@
 dist/
 
+.cache
+public/
+
 .DS_STORE
 node_modules
 scripts/flow/*/.flowconfig

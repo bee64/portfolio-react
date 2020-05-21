@@ -1,0 +1,25 @@
+html {
+    background-color: #efefef;
+}
+
+img {
+    max-width: 425px;
+    /* border-radius: 999999999px; */
+    border: 10px solid peachPuff;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-frame {
+    align-self: center;
+    padding: 4em;
+}
